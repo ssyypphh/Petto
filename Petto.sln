@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petto", "Assembly-CSharp.csproj", "{A2FDE6B7-5BFD-8584-0F6B-2108BF3B339C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Petto", "Assembly-CSharp-Editor.csproj", "{BA5D9EB6-7970-5F34-7442-C3F84EEAAE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2FDE6B7-5BFD-8584-0F6B-2108BF3B339C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2FDE6B7-5BFD-8584-0F6B-2108BF3B339C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2FDE6B7-5BFD-8584-0F6B-2108BF3B339C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2FDE6B7-5BFD-8584-0F6B-2108BF3B339C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA5D9EB6-7970-5F34-7442-C3F84EEAAE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA5D9EB6-7970-5F34-7442-C3F84EEAAE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA5D9EB6-7970-5F34-7442-C3F84EEAAE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA5D9EB6-7970-5F34-7442-C3F84EEAAE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
